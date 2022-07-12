@@ -3,3 +3,4 @@ First the file has to be staged using git add -all
 after that it is staged and ready for commit
 use git commit -m to commit
 add a msg after -m to understand info abt the commit
+Branching away now literally
